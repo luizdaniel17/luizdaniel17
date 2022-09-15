@@ -1,6 +1,6 @@
 # sobre mim 
 - 👋 Oi eu sou @luizdaniel17
-- 👍 meu email de contato é luiz.daniellealgomes.junior@escola.pr.gov.bes
+- 👍 meu email de contato é [email] (luiz.daniellealgomes.junior@escola.pr.gov)
 - 👀  estou interessado em aprender a programar novas linguagens
 - 🌱 estou aprendendo a programar recentemente a linguagem de javaScript e Scrath
 - 💞️ I’m looking to collaborate on
